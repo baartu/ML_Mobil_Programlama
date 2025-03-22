@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781171586122",
+    "project_id": "tubitakprojesi-73963",
+    "storage_bucket": "tubitakprojesi-73963.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781171586122:android:20500eebd50c47305fe2b3",
+        "android_client_info": {
+          "package_name": "com.example.deneme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADt7_iuOq9Tht09KvXPElbybJtJl9bNkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
