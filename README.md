@@ -1,6 +1,6 @@
 # Kalp Hastalığı Erken Teşhis Amaçlı Makine Öğrenmesi Tabanlı Mobil Programlama
 
-Bu proje, kalp hastalığı riskini erken teşhis edebilmek amacıyla geliştirilen makine öğrenmesi tabanlı bir mobil uygulamadır. Yapay zeka destekli bu sistem, bireylerden alınan sağlık verilerini analiz ederek kalp hastalığı riski hakkında öngörüde bulunur. Proje, özellikle erken uyarı sistemlerinin geliştirilmesi ve sağlık hizmetlerine kolay erişim sağlanması hedefleriyle oluşturulmuştur.
+Bu proje, kalp hastalığı riskini erken teşhis edebilmek amacıyla geliştirilen makine öğrenmesi tabanlı bir mobil uygulamadır. Makine öğrenmesi destekli bu sistem, bireylerden alınan sağlık verilerini analiz ederek kalp hastalığı riski hakkında öngörüde bulunur. Proje, özellikle erken uyarı sistemlerinin geliştirilmesi ve sağlık hizmetlerine kolay erişim sağlanması hedefleriyle oluşturulmuştur.
 
 ## 🚀 Özellikler
 
