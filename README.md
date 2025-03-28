@@ -18,3 +18,8 @@ Bu proje, kalp hastalığı riskini erken teşhis edebilmek amacıyla geliştiri
 - Scikit-learn (ML algoritmaları)  
 - Pandas, NumPy (Veri işleme)  
 - Firebase (Veri saklama için)  
+
+## 📬 İletişim
+
+Proje Sahibi: Bartu Başaran
+E-posta: bartu.basaran@outlook.com
