@@ -21,5 +21,6 @@ Bu proje, kalp hastalığı riskini erken teşhis edebilmek amacıyla geliştiri
 
 ## 📬 İletişim
 
--Proje Sahibi: Bartu Başaran
--E-posta: bartu.basaran@outlook.com
+**Proje Sahibi:** Bartu Başaran  
+**E-posta:** bartu.basaran@outlook.com
+
