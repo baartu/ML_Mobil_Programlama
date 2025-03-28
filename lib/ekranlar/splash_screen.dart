@@ -34,10 +34,10 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.white, // Arka plan rengi
+      backgroundColor: Colors.blueGrey[800], // Arka plan rengi
       body: Center(
         child: Lottie.asset(
-          'assets/kwvLY9jPRl.json', // Animasyon dosyanızın yolu
+          'assets/Animation.json', // Animasyon dosyanızın yolu
           width: 250, // Genişlik
           height: 250, // Yükseklik
           fit: BoxFit.fill, // Animasyonun boyutlandırılması

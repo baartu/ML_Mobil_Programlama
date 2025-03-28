@@ -104,11 +104,10 @@ class _KayitSayfasiState extends State<KayitSayfasi> {
                     crossAxisAlignment: CrossAxisAlignment.center,
                     children: [
                       Image.asset(
-                        "assets/heartify.jpg",
-                        height: 80,
+                        "assets/heartify1.png",
+                        height: 60,
                       ), // Logo
-                      const SizedBox(
-                          width: 10), // Görsel ve yazı arasındaki mesafe
+                      // Görsel ve yazı arasındaki mesafe
                       const Text(
                         "Heartify'ye Kayıt Ol",
                         style: TextStyle(

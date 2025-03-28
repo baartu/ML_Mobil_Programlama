@@ -87,15 +87,14 @@ class _GirisSayfasiState extends State<GirisSayfasi> {
                     crossAxisAlignment: CrossAxisAlignment.center,
                     children: [
                       Image.asset(
-                        "assets/heartify.jpg",
+                        "assets/heartify1.png",
                         height: 80,
                       ), // Logo
-                      const SizedBox(
-                          width: 10), // Görsel ve yazı arasındaki mesafe
+                      // Görsel ve yazı arasındaki mesafe
                       const Text(
                         "Heartify'ye Giriş Yap",
                         style: TextStyle(
-                          fontSize: 22,
+                          fontSize: 18,
                           fontWeight: FontWeight.normal,
                           color: Colors.black87,
                         ),

@@ -840,9 +840,8 @@ class _MyCustomFormState extends State<MyCustomForm> {
                           }
                         },
                         style: OutlinedButton.styleFrom(
-                            side: BorderSide(color: Colors.black, width: 1),
                             padding: const EdgeInsets.symmetric(
-                                horizontal: 30, vertical: 15),
+                                horizontal: 25, vertical: 15),
                             shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.circular(20),
                             ),
@@ -854,7 +853,7 @@ class _MyCustomFormState extends State<MyCustomForm> {
                         child: Row(
                           mainAxisSize: MainAxisSize.min,
                           children: [
-                            //Icon(Icons.file_upload_outlined, size: 20),
+                            Icon(Icons.file_upload_outlined, size: 20),
                             SizedBox(
                               width: 8,
                             ),
